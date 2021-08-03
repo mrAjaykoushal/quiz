@@ -11,7 +11,7 @@ var questionBank= [
     },
     {
         question : 'Which of the following is not Javascript frameworks or libraries?',
-        option : ['Polymer','Meteor','Meteor','jQuery'],
+        option : ['Polymer','Meteor','Cassandra','jQuery'],
         answer : 'Cassandra'
     },
     {
